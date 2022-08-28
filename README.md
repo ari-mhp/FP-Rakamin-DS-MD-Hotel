@@ -4,8 +4,8 @@ Final Project Rakamin DS Batch 23 group 3 MD Hotel
 Analisis dataset Hotel Booking cancelation rate, dan melakukan proses model Machine Learning untuk memprediksi cancelation rate dan faktor penyebabnya. 
 
 ## Table of Contents
-* [General Ifo](#general-information)
-* [Proses per Stage](#proses per stage)
+* [General Info](#general-information)
+* [Proses per Stage](#proses-per-stage)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
