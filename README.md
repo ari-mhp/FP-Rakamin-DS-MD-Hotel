@@ -6,12 +6,7 @@ Analisis dataset Hotel Booking cancelation rate, dan melakukan proses model Mach
 ## Table of Contents
 * [General Info](#general-information)
 * [Proses per Stage](#Proses per Stage)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
@@ -42,8 +37,6 @@ Analisis dataset Hotel Booking cancelation rate, dan melakukan proses model Mach
 
 ## Project Status
 Project is: _in progress_
-
-
 
 ## Acknowledgements
 - project dataset bersumber dari[Kaggle Dataset](https://www.kaggle.com/datasets/mojtaba142/hotel-booking)).
