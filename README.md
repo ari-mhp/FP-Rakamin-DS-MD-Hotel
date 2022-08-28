@@ -1,7 +1,7 @@
 # FP_Rakamin
 Final Project Rakamin DS Batch 23 group 3 MD Hotel
 # MD Hotel
-> Outline a brief description of your project. Analisis dataset Hotel Booking cancelation rate, dan melakukan proses model Machine Learning untuk memprediksi cancelation rate dan faktor penyebabnya. 
+Analisis dataset Hotel Booking cancelation rate, dan melakukan proses model Machine Learning untuk memprediksi cancelation rate dan faktor penyebabnya. 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -18,11 +18,13 @@ Final Project Rakamin DS Batch 23 group 3 MD Hotel
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
+- Provide general information about your project here Jumlah pembatalan booking hotel pada tahun 2015 - 2017 rata-rata tiap bulannya mencapai 36%. Jumlah cancelled booking tertinggi terjadi pada tahun 2015 di bulan Juli yaitu sebanyak 45%. Hal tersebut menyebabkan Adr loss yang diakibatkan dari kamar yang kosong..
+- Apa problem yang mau diselesaikan dari dataset tsb? Prediksi booking yang memiliki potensi untuk di cancel
+- Apa goal yang mau dicapai? 
+1. Memprediksi secara akurat customer yang akan cancel booking dengan dengan model Machine Learning.
+2. Menurunkan cancellation rate, dengan cara memberi insight ke team marketing/sales terkait persona/trait dari hasil prediksi Machine Learning customer yg akan cancel booking.
+
 - Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
