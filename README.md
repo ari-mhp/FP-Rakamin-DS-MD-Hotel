@@ -1,8 +1,7 @@
 # FP_Rakamin
-Final Project Rakamin DS Batch 23
+Final Project Rakamin DS Batch 23 group 3 MD Hotel
 # MD Hotel
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Outline a brief description of your project. Analisis dataset Hotel Booking cancelation rate, dan melakukan proses model Machine Learning untuk memprediksi cancelation rate dan faktor penyebabnya. 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -15,7 +14,7 @@ Final Project Rakamin DS Batch 23
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
+
 
 
 ## General Information
