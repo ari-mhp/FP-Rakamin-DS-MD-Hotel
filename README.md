@@ -5,8 +5,7 @@ Analisis dataset Hotel Booking cancelation rate, dan melakukan proses model Mach
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Proses per Stage](#Proses per Stage)
-* []()
+* [Proses per Stage](#proses per stage)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
