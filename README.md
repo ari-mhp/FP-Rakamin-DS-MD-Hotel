@@ -5,7 +5,7 @@ Analisis dataset Hotel Booking cancelation rate, dan melakukan proses model Mach
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Proses per Stage](#Proses per Stage)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
@@ -18,68 +18,42 @@ Analisis dataset Hotel Booking cancelation rate, dan melakukan proses model Mach
 
 
 ## General Information
-- Provide general information about your project here Jumlah pembatalan booking hotel pada tahun 2015 - 2017 rata-rata tiap bulannya mencapai 36%. Jumlah cancelled booking tertinggi terjadi pada tahun 2015 di bulan Juli yaitu sebanyak 45%. Hal tersebut menyebabkan Adr loss yang diakibatkan dari kamar yang kosong..
-- Apa problem yang mau diselesaikan dari dataset tsb? Prediksi booking yang memiliki potensi untuk di cancel
+- General Information information Terkait Project:
+-  MD Hotel merupakan Final Project dari tim 3 Rakamin Data Science Batch 23, Kami mengolah dataset Hotel Booking dari Kaggle dengan menggunakan ML untuk memprediksi Cancellation Rate dari Booking Customer
+
+- Apa problem yang mau diselesaikan dari dataset tsb? 
+  Jumlah pembatalan booking hotel pada tahun 2015 - 2017 rata-rata tiap bulannya mencapai 36%. Jumlah cancelled booking tertinggi terjadi pada tahun 2015 di bulan Juli yaitu sebanyak 45%. Hal tersebut menyebabkan Adr loss yang diakibatkan dari kamar yang kosong..
+
 - Apa goal yang mau dicapai? 
-1. Memprediksi secara akurat customer yang akan cancel booking dengan dengan model Machine Learning.
-2. Menurunkan cancellation rate, dengan cara memberi insight ke team marketing/sales terkait persona/trait dari hasil prediksi Machine Learning customer yg akan cancel booking.
-
-- Why did you undertake it?
-
-
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+  1. Memprediksi secara akurat customer yang akan cancel booking dengan dengan model Machine Learning.
+  2. Menurunkan cancellation rate, dengan cara memberi insight ke team marketing/sales terkait persona/trait dari hasil prediksi Machine Learning customer yg akan cancel booking.
+  
 
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
+## Proses per Stage
+- Stage 1 EDA Insight & Visualization
+  Melakukan EDA untuk me-explore masing-masing attributes kolom dan target output oalah datanya, melihat distribusi masing-masing kolom terhadap variable target dan menvisualisasikannya untuk mendapat insight 
+- Stage 2 Data Pre-Processing
+  Melakukan Data Cleansing dan Feature Engineering terhadap kolom-kolom yang ada sebagai dasar untuk menjalankan Machine Learning Modelling
+- Stage 3 Machine Learning Modelling & Evaluation
+  Melakukan beberapa Machine Learning Modelling terhadap dataset yang telah di Pre-processing dan mengevaluasi hasilnya untuk dipilih model terbaik
+- Stage 4
+  Ongoing
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_
 
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
+- project dataset bersumber dari[Kaggle Dataset](https://www.kaggle.com/datasets/mojtaba142/hotel-booking)).
 - Many thanks to...
-
-
+  Akbarul Mentor Group 3
+  
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by 
+Muhammad Emir Wahab
+Muhammad Hasri P
+Diah Alfian
+Dwi Indri N
+- feel free to contact us
