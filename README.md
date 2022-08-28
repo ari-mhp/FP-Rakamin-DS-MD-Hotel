@@ -30,7 +30,7 @@ Analisis dataset Hotel Booking cancelation rate, dan melakukan proses model Mach
 ## Proses per Stage
 - Stage 1 EDA Insight & Visualization
 
-  Melakukan EDA untuk me-explore masing-masing attributes kolom dan target output oalah datanya, melihat distribusi masing-masing kolom terhadap variable target dan menvisualisasikannya untuk mendapat insight 
+  Melakukan EDA untuk me-explore masing-masing attributes kolom dan target output olah datanya, melihat distribusi masing-masing kolom terhadap variable target dan menvisualisasikannya untuk mendapat insight 
   
 - Stage 2 Data Pre-Processing
 
@@ -39,6 +39,7 @@ Analisis dataset Hotel Booking cancelation rate, dan melakukan proses model Mach
 - Stage 3 Machine Learning Modelling & Evaluation
 
   Melakukan beberapa Machine Learning Modelling terhadap dataset yang telah di Pre-processing dan mengevaluasi hasilnya untuk dipilih model terbaik
+  
 - Stage 4
 
   Ongoing
